@@ -1,13 +1,13 @@
-package Dio.springBoot;
+package dio.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PrimeirosPassosSpringApplication {
+public class PrimeirosPassosApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PrimeirosPassosSpringApplication.class, args);
+		SpringApplication.run(PrimeirosPassosApplication.class, args);
 	}
 
 }
